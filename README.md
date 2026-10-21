@@ -1,16 +1,17 @@
-## Hi there 👋
+# Hi, I'm Narayan Shinde 👋
 
-<!--
-**Nara-Shi/Nara-Shi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I build small projects that explore useful software ideas, web experiences, and learning tools.
 
-Here are some ideas to get you started:
+## Featured projects
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- **[Skill Shack](https://github.com/Nara-Shi/Skill-Shack)** — a static storefront interface concept for exploring digital products. Login and checkout are simulated for demonstration only.
+- **[Course Recommender](https://github.com/Nara-Shi/course_Recommender)** — a Streamlit prototype that matches sample courses to selected topics, level, and duration.
+
+## What I'm exploring
+
+- Java and problem-solving
+- Web application design
+- AI-assisted tools and prompt workflows
+- Data visualization and interactive experiences
+
+Thanks for stopping by. I'm continuing to build, learn, and improve these projects.
